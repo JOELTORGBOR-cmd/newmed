@@ -1,0 +1,1 @@
+ALTER TABLE public.invoices ADD CONSTRAINT invoices_appointment_id_unique UNIQUE (appointment_id);

@@ -1,0 +1,1 @@
+ALTER TABLE public.doctors ADD CONSTRAINT doctors_profile_id_unique UNIQUE (profile_id);

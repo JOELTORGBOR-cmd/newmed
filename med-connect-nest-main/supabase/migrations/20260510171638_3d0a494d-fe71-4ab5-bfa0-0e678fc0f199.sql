@@ -1,0 +1,1 @@
+DELETE FROM public.doctors WHERE profile_id IS NULL;
